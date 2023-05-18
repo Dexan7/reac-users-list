@@ -1,0 +1,29 @@
+.add-user-card {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.add-user-card__item {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-user-card_input {
+    margin: 10px 0;
+}
+
+.add-user-card__item__label {
+    margin: 5px 0;
+    font-weight: 700;
+}
+
+.add-user-card__button {
+    width: 102px;
+    background-color: purple;
+    color: white;
+    padding: 5px 0;
+}
